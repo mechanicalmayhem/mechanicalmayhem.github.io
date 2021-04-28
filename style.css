@@ -8,28 +8,28 @@
 .header {
   grid-column: 1 / 4;
   padding: 20px;
-  border:1px solid black;
+  border: 1px solid black;
   color: #2e2e2e;
 }
 
 .nav {
   grid-row: 2 / 2;
   padding: 20px;
-  border:1px solid black;
+  border: 1px solid black;
   color: #2e2e2e;
 }
 
 .footer {
   grid-column: 1 / 4;
   padding: 20px;
-  border:1px solid black;
+  border: 1px solid black;
   color: #2e2e2e;
 }
 
 .content {
   grid-column: 2 / 4;
   padding: 20px;
-  border:1px solid black;
+  border: 1px solid black;
   color: #2e2e2e;
 }
 
