@@ -20,6 +20,7 @@ p {
   display: grid;
   grid-template-columns: 175px 300px 300px 300px;
   grid-gap: 10px;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .header {
