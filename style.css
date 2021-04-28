@@ -7,18 +7,22 @@
 
 .header {
   grid-column: 1 / 4;
+  padding: 20px;
 }
 
 .nav {
   grid-row: 2 / 2;
+  padding: 20px;
 }
 
 .footer {
   grid-column: 1 / 4;
+  padding: 20px;
 }
 
 .content {
   grid-column: 2 / 4;
+  padding: 20px;
 }
 
 
