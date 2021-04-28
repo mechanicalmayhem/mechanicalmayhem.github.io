@@ -1,10 +1,10 @@
 a:link {
-  color: #c47c00;
+  color: blue;
   text-decoration: none;
 }
 
 a:visited {
-  color: blue;
+  color: #c47c00;
   text-decoration: none;
 }
 
