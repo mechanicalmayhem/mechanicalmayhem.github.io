@@ -12,6 +12,10 @@ a:hover {
   color: white;
 }
 
+p {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: 175px 300px 300px 300px;
