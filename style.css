@@ -9,6 +9,10 @@
   grid-column: 1 / 4;
 }
 
+.nav {
+  grid-row: 2 / 2;
+}
+
 .footer {
   grid-column: 1 / 4;
 }
