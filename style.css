@@ -2,7 +2,6 @@
   display: grid;
   grid-template-columns: 175px 300px 300px 300px;
   grid-gap: 10px;
-  background-color: #a3a3a3;
 }
 
 .header {
@@ -10,6 +9,7 @@
   padding: 20px;
   border: 1px solid black;
   color: #2e2e2e;
+  background-color: #a3a3a3;
 }
 
 .nav {
@@ -17,6 +17,7 @@
   padding: 20px;
   border: 1px solid black;
   color: #2e2e2e;
+  background-color: #a3a3a3;
 }
 
 .footer {
@@ -24,6 +25,7 @@
   padding: 20px;
   border: 1px solid black;
   color: #2e2e2e;
+  background-color: #a3a3a3;
 }
 
 .content {
@@ -31,6 +33,7 @@
   padding: 20px;
   border: 1px solid black;
   color: #2e2e2e;
+  background-color: #a3a3a3;
 }
 
 
