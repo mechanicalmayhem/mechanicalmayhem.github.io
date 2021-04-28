@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 200px auto auto auto;
   grid-gap: 10px;
-  background-color: a3a3a3;
+  background-color: #a3a3a3;
 }
 
 .header {
